@@ -137,15 +137,15 @@ backend/
 
 | User Dashboard | Donation Form | User Campaigns |
 |----------------|----------------|----------------|
-| ![UserDashboard](./screenshots/user-campaigns.png) | ![DonationForm](./screenshots/donation-receipt-form.png) | ![UserCampaigns](./screenshots/user-campaigns.png) |
+| ![UserDashboard](./screenshots/user-dashboard.png) | ![DonationForm](./screenshots/donation-receipt-form.png) | ![UserCampaigns](./screenshots/user-campaigns.png) |
 
-| User Donations | Events | Sign In | Sign Up |
-|----------------|--------|---------|---------|
-| ![UserDonations](./screenshots/user-donations.png) | ![Events](./screenshots/events.png) | ![Signin](./screenshots/signin.png) | ![Signup](./screenshots/signup.png) |
+| User Donations | Events | Sign In | 
+|----------------|--------|---------|
+| ![UserDonations](./screenshots/user-donations.png) | ![Events](./screenshots/events.png) | ![Signin](./screenshots/signin.png) | 
+| Manage Donation Receipts | Feedback | Sign Up |
+|--------------------------|----------|---------|
+| ![ManageReceipts](./screenshots/manage-donation-receipts.png) | ![Feedback](./screenshots/feedback.png) | ![Signup](./screenshots/signup.png) |
 
-| Manage Donation Receipts | Feedback |
-|--------------------------|----------|
-| ![ManageReceipts](./screenshots/manage-donation-receipts.png) | ![Feedback](./screenshots/feedback.png) |
 
 ## ⚙️ Installation
 
