@@ -3,7 +3,7 @@
 
 # 🙌 Helping Hands Organization Application
 
-## 📖 Overview
+## 📖 Overview 
 Helping Hands Organization is a **Single Page Application (SPA)** built with the **MERN stack** (MongoDB, Express.js, React, Node.js) and styled using **Tailwind CSS**.  
 It is a **role-based donation management system** designed for organizations to manage campaigns, donations, events, and galleries.
 
