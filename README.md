@@ -122,7 +122,7 @@ backend/
 
 ---
 
-## ⚙️ Installation
+
 
 
 ## 📸 Screenshots
@@ -147,6 +147,7 @@ backend/
 |--------------------------|----------|
 | ![ManageReceipts](./screenshots/manage-donation-receipts.png) | ![Feedback](./screenshots/feedback.png) |
 
+## ⚙️ Installation
 
 ```bash
 # Clone the repository
