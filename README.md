@@ -124,21 +124,6 @@ backend/
 
 ## ⚙️ Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/bantupallisarath7/Helping-Hands-Organization---Web-Application.git
-
-
-# Backend setup
-cd backend
-npm install
-npm run dev
-
-# Frontend setup
-cd ../frontend
-npm install
-npm start
-
 
 ## 📸 Screenshots
 
@@ -161,3 +146,19 @@ npm start
 | Manage Donation Receipts | Feedback |
 |--------------------------|----------|
 | ![ManageReceipts](./screenshots/manage-donation-receipts.png) | ![Feedback](./screenshots/feedback.png) |
+
+
+```bash
+# Clone the repository
+git clone https://github.com/bantupallisarath7/Helping-Hands-Organization---Web-Application.git
+
+
+# Backend setup
+cd backend
+npm install
+npm run dev
+
+# Frontend setup
+cd ../frontend
+npm install
+npm start
