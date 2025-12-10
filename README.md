@@ -142,6 +142,7 @@ backend/
 | User Donations | Events | Sign In | 
 |----------------|--------|---------|
 | ![UserDonations](./screenshots/user-donations.png) | ![Events](./screenshots/events.png) | ![Signin](./screenshots/signin.png) | 
+
 | Manage Donation Receipts | Feedback | Sign Up |
 |--------------------------|----------|---------|
 | ![ManageReceipts](./screenshots/manage-donation-receipts.png) | ![Feedback](./screenshots/feedback.png) | ![Signup](./screenshots/signup.png) |
