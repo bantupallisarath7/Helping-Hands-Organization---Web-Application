@@ -156,8 +156,8 @@ npm start
 
 | User Donations | Events | Sign In | Sign Up |
 |----------------|--------|---------|---------|
-| ![UserDonations](./screenshots/user-donations.jpg) | ![Events](./screenshots/events.jpg) | ![Signin](./screenshots/signin.jpg) | ![Signup](./screenshots/signup.jpg) |
+| ![UserDonations](./screenshots/user-donations.png) | ![Events](./screenshots/events.png) | ![Signin](./screenshots/signin.png) | ![Signup](./screenshots/signup.png) |
 
 | Manage Donation Receipts | Feedback |
 |--------------------------|----------|
-| ![ManageReceipts](./screenshots/manage-donation-receipts.jpg) | ![Feedback](./screenshots/feedback.jpg) |
+| ![ManageReceipts](./screenshots/manage-donation-receipts.png) | ![Feedback](./screenshots/feedback.png) |
