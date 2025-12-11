@@ -24,13 +24,14 @@ The application supports two roles:
 ## 📂 Project Structure
 
 ### 🌐 Frontend (`/frontend`)
+```
 frontend/
 ├── public/                     # Static assets (favicon, index.html)
 ├── redux/
 │   ├── user/                   # Redux slice for user state
 │   └── store.js                # Redux store configuration
 ├── src/
-│   ├── assets/                 # Images, icons, Lottie/SVG animations
+│   ├── assets/                 # Images, icons
 │   ├── Component/
 │   │   ├── Admin/              # Admin-specific components
 │   │   ├── Cards/              # Reusable card components
@@ -51,10 +52,10 @@ frontend/
 ├── package.json                # Dependencies and scripts
 ├── vite.config.js              # Vite build configuration
 └── eslint.config.js            # Linting rules
-
+```
 
 ### 🔧 Backend (`/backend`)
-
+```
 backend/
 ├── Controllers/
 │   ├── adminController/              # Admin logic
@@ -72,24 +73,24 @@ backend/
 │   ├── verifyAdmin.js                # Admin access middleware
 │   └── verifyToken.js                # Auth token verification
 ├── Models/
-│   ├── Campaign.js
-│   ├── Document.js
-│   ├── DonationReceipt.js
-│   ├── Event.js
-│   ├── Feedback.js
-│   └── Gallery.js
+│   ├── Campaign.js                   # Campaign model                 
+│   ├── DonationReceipt.js            # Donation Receipt model
+│   ├── Event.js                      # Event model
+│   ├── Feedback.js                   # Feedback model
+│   ├── Gallery.js                    # Gallery model
+|   └── User.js                       # User model
 ├── Routes/
-│   ├── adminRoutes.js
-│   ├── campaignRoutes.js
-│   ├── donationReceiptRoutes.js
-│   ├── feedbackRoutes.js
-│   └── userRoutes.js
+│   ├── adminRoutes.js                # Admin routes
+│   ├── campaignRoutes.js             # Campaign routes
+│   ├── donationReceiptRoutes.js      # Donation Receipt routes
+│   ├── feedbackRoutes.js             # Feedback routes
+│   └── userRoutes.js                 # User routes
 ├── uploads/                          # Uploaded files and images
 ├── Server.js                         # Express server entry point
 ├── .env                              # Environment variables
 ├── package.json                      # Backend dependencies
 └── package-lock.json
-
+```
 
 ---
 
