@@ -173,10 +173,10 @@ backend/
 ![UserCampaigns](./screenshots/user-campaigns.png)
 
 ## Campaign Creation Form
-![CreateCampaign](./screenshots/campaign-form.png)
+![CreateCampaign](./screenshots/campaign-create-form.png)
 
 ## Donation Form
-![DonationForm](./screenshots/donation-receipt-form.png)
+![DonationForm](./screenshots/donation-form.png)
 
 ## Donation Receipts
 ![DonationReceipts](./screenshots/user-donation-receipts.png)
