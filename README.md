@@ -127,25 +127,65 @@ backend/
 
 ## 📸 Screenshots
 
-| Landing Page | Admin Dashboard | Campaign View |
-|--------------|------------------|----------------|
-| ![Landing](./screenshots/landing-page.png) | ![Admin ](./screenshots/admin-dashboard.png) | ![Campaign](./screenshots/active-campaigns.png) |
+## Landing Page
+![Landing](./screenshots/landing-page.png)
 
-| Admin/User Profile | Gallery | Campaign Creation Form |
-|--------------|---------|------------------------|
-| ![Profile](./screenshots/profile.png) | ![Gallery](./screenshots/landing-page-gallery.png) | ![CreateCampaign](./screenshots/campaign-form.png) |
+## Sign Up
+![Signup](./screenshots/signup.png)
 
-| User Dashboard | Donation Form | User Campaigns |
-|----------------|----------------|----------------|
-| ![UserDashboard](./screenshots/user-dashboard.png) | ![DonationForm](./screenshots/donation-receipt-form.png) | ![UserCampaigns](./screenshots/user-campaigns.png) |
+## Sign In
+![Signin](./screenshots/signin.png)
 
-| User Donations | Events | Sign In | 
-|----------------|--------|---------|
-| ![UserDonations](./screenshots/user-donations.png) | ![Events](./screenshots/events.png) | ![Signin](./screenshots/signin.png) | 
+## Gallery
+![Gallery](./screenshots/landing-page-gallery.png)
 
-| Manage Donation Receipts | Feedback | Sign Up |
-|--------------------------|----------|---------|
-| ![ManageReceipts](./screenshots/manage-donation-receipts.png) | ![Feedback](./screenshots/feedback.png) | ![Signup](./screenshots/signup.png) |
+---
+
+## Admin Dashboard
+![Admin](./screenshots/admin-dashboard.png)
+
+## User Dashboard
+![UserDashboard](./screenshots/user-dashboard.png)
+
+## Admin/User Profile
+![Profile](./screenshots/profile.png)
+
+---
+## Campaign Creation Form
+![CreateCampaign](./screenshots/campaign-form.png)
+
+## User Campaigns
+![UserCampaigns](./screenshots/user-campaigns.png)
+
+## Manage Campaigns
+![ManageCampaigns](./screenshots/manage-campaigns.png)
+
+## Campaign View
+![Campaign](./screenshots/active-campaigns.png)
+
+---
+
+## Donation Form
+![DonationForm](./screenshots/donation-receipt-form.png)
+
+## Manage Donation Receipts
+![ManageReceipts](./screenshots/manage-donation-receipts.png)
+
+## User Donations
+![UserDonations](./screenshots/user-donations.png)
+
+---
+
+## Events
+![Events](./screenshots/events.png)
+
+## Manage Events
+![ManageEvents](./screenshots/manage-events.png)
+
+---
+
+## Feedback
+![Feedback](./screenshots/feedback.png)
 
 
 ## ⚙️ Installation
